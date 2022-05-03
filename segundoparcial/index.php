@@ -120,7 +120,7 @@
             <div class="card-body">
               <h4 class="card-title">Examen</h4>
               <p class="card-text">Examen 2</p>
-              <a class="btn btn-primary" href="./proyectoFinalS3/index.php">Examen</a>
+              <a class="btn btn-primary" href="./examen/index.php">Examen</a>
             </div>
           </div>
         </div>
