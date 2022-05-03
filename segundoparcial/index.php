@@ -58,6 +58,7 @@
         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <li><a class="dropdown-item" href="./tipo-triangulo/tipo-triangulo.php">Tipo de triangulo</a>
           <li><a class="dropdown-item" href="./signos/signos.php">Signos</a></li>
+          
         </ul>
         </li>
        
@@ -110,11 +111,18 @@
             <div class="card-body">
               <h4 class="card-title">Proyecto</h4>
               <p class="card-text">Proyecto de s3</p>
-              <a class="btn btn-primary" href="./proyectoFinalS3/index.php">Conversion</a>
+              <a class="btn btn-primary" href="./proyectoFinalS3/index.php">Proyecto</a>
             </div>
           </div>
 
-
+          <div class="card">
+            <img class="card-img-top" src="" alt="">
+            <div class="card-body">
+              <h4 class="card-title">Examen</h4>
+              <p class="card-text">Examen 2</p>
+              <a class="btn btn-primary" href="./proyectoFinalS3/index.php">Examen</a>
+            </div>
+          </div>
         </div>
 
  
