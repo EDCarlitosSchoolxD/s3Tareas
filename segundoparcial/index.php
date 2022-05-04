@@ -119,10 +119,21 @@
             <img class="card-img-top" src="" alt="">
             <div class="card-body">
               <h4 class="card-title">Examen</h4>
-              <p class="card-text">Examen 2</p>
+              <p class="card-text">Examen 1</p>
               <a class="btn btn-primary" href="./examen/index.php">Examen</a>
             </div>
           </div>
+
+          <div class="card">
+            <img class="card-img-top" src="" alt="">
+            <div class="card-body">
+              <h4 class="card-title">Examen</h4>
+              <p class="card-text">Examen 2</p>
+              <a class="btn btn-primary" href="./exame2/index.php">Examen</a>
+            </div>
+          </div>
+
+
         </div>
 
  
