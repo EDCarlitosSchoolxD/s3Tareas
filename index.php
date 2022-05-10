@@ -59,6 +59,9 @@
   <div>
     <a href="./segundoparcial/index.php">Segundo Parcial</a>
   </div>
+  <div>
+    <a href="./tercerparcial/index.php">Tercer parcial</a>
+  </div>
 
 <?php include("./include/js.php")?>  
 </body>

@@ -1,5 +1,5 @@
 <?php include("../include/basicHead.php");?>
-    <title>Tercer parcial</title>
+    <title>Segundo parcial</title>
 </head>
 <body>
 
