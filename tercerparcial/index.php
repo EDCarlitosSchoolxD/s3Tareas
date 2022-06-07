@@ -74,9 +74,12 @@
   </header>
 
 
-  <div>
+  <div style="display: flex;flex-direction: column;">
     <a href="./check_y_radio/index.php">Check y Radio</a>
-  </div>
+    <a href="./tablas_multi/index.php">Tablas de multiplicar</a>  
+    <a href="./adivinaphp/index.php">Adivina PHP</a>
+    <a href="./fibonaci/index.php">Fibonaci</a>
+</div>
 
 
 
